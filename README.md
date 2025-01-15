@@ -9,7 +9,7 @@ A simple console-based calculator built using C#.
 - ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/CalculatorApp.git
+   git clone https://github.com/Hozan13/CalculatorApp.git
 2. Open the project in Visual Studio or your preferred IDE.
 3. Run the application and follow the menu options.
 ## Example Output
